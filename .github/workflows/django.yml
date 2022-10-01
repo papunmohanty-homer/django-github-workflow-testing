@@ -1,5 +1,5 @@
 
-name: Sample Django GitHub Action Tests Result
+name: Sample Django GitHub Action Tests Result :
 
 on:
   push:
